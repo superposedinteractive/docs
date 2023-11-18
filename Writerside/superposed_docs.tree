@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="superposed_docs"
+                  name="superposed docs" start-page="welcome.md">
+
+    <toc-element topic="welcome.md"/>
+    <toc-element toc-title="Developers">
+        <toc-element topic="migrating-from-dzejmod3.md"/>
+        <toc-element toc-title="Backmod">
+            <toc-element topic="What-s-Backmod.md"/>
+            <toc-element toc-title="API">
+                <toc-element topic="Quick Note.md"/>
+                <toc-element toc-title="Social">
+                    <toc-element toc-title="Friends">
+                        <toc-element topic="request.md"/>
+                        <toc-element topic="list.md"/>
+                        <toc-element topic="block.md"/>
+                        <toc-element topic="accept.md"/>
+                    </toc-element>
+                </toc-element>
+                <toc-element toc-title="Store">
+                    <toc-element topic="info.md"/>
+                </toc-element>
+                <toc-element toc-title="User">
+                    <toc-element topic="signup.md"/>
+                    <toc-element topic="signin.md"/>
+                    <toc-element topic="user_info.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element toc-title="Objects">
+                <toc-element topic="user.md"/>
+            </toc-element>
+        </toc-element>
+        <toc-element toc-title="Likeum">
+            <toc-element topic="What-s-Likeum.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>
