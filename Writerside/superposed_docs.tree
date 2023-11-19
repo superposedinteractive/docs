@@ -34,6 +34,13 @@
             </toc-element>
         </toc-element>
         <toc-element toc-title="Likeum">
+            <toc-element toc-title="Module Documentation">
+                <toc-element topic="GameMan.md"/>
+            </toc-element>
+            <toc-element toc-title="Entities">
+
+                <toc-element topic="env-shader.md"/>
+            </toc-element>
             <toc-element topic="What-s-Likeum.md"/>
         </toc-element>
     </toc-element>

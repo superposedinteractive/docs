@@ -2,10 +2,6 @@
 ## What major changes are there?
 Dzejmod4 is the start of a new phase. It brings significant changes that make anything from your dzejmod3 projects incompatible. The coding API has been completely revamped with a brand new game engine, resulting in a stronger and more efficient codebase. Although the idea of starting over might seem daunting, the benefits that await you after this transition process are definitely worth it.
 
-## Bye bye Godot, Hello likeum!
-
-Dzejmod4 marks a departure from Godot as we usher in our very own likeum engine. This shift isn't just about appearances; it's a strategic pivot to better work with the distinctive demands of dzejmod's creative realm. Compatibility with prior Godot versions? That shit is gone.
-
 ### Dedicated Servers Take the Spotlight
 A standout change in dzejmod4 is the pivot from peer-to-peer (P2P) connections to a dedicated server model. Techniques that may have been your go-to in dzejmod3 might need a rethink, as the spotlight now shifts to a more stable and scalable multiplayer experience.
 

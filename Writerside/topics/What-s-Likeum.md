@@ -14,4 +14,5 @@ make your own games. You can find it [here](https://example.com).
   which modules you want to use.
 - **Easy to use**: Likeum is designed to be easy and ready to use, so you can
   focus on making your game.
-- 
+- **Allows for simple mod loading**: Likeum handles all patch, mod, custom content downloading and loading on runtime!
+- **Easy Updating**: The "launcher" checks for module updates on runtime.
