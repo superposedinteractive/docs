@@ -1,0 +1,19 @@
+<buildprofiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+               xsi:noNamespaceSchemaLocation="https://resources.jetbrains.com/writerside/1.0/build-profiles.xsd">
+	<variables>
+		<algolia-id>BND4FY212E</algolia-id>
+		<algolia-index>superposed docs search</algolia-index>
+		<algolia-api-key>85d7755dda33fa3268b02cc9b4f4cea4</algolia-api-key>
+		<web-root>https://docs.superposed.xyz</web-root>
+	</variables>
+	<build-profile instance="sd"/>
+	<footer>
+		<social type="twitter" href="https://twitter.com/realsuperposed"/>
+		<link href="https://github.com/superposedinteractive/tracker">GitHub Tracker & discussions</link>
+        <link href="https://discord.gg/Q9bPZbnNDj">Discord</link>
+        <link href="https://algolia.com">Search by Algolia</link>
+		<copyright>
+			superposed 2022-2024
+		</copyright>
+	</footer>
+</buildprofiles>
