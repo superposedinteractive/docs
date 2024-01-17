@@ -4,7 +4,7 @@
 
 <instance-profile id="sd"
                   name="superposed Docs"
-                  start-page="Welcome.md">
+                  start-page="index.md">
 
-    <toc-element topic="Welcome.md"/>
+    <toc-element topic="index.md"/>
 </instance-profile>
