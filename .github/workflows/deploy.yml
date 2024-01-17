@@ -26,7 +26,7 @@ env:
     # Algolia application name
     ALGOLIA_APP_NAME: BND4FY212E
     # Algolia index name
-    ALGOLIA_INDEX_NAME: superposed docs search
+    ALGOLIA_INDEX_NAME: "superposed docs search"
     # Algolia key
     ALGOLIA_KEY: ${{ secrets.ALGOLIA_KEY }}
     # Product name from config.json
