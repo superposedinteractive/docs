@@ -7,4 +7,12 @@
                   start-page="Welcome.md">
 
     <toc-element topic="Welcome.md"/>
+    <toc-element toc-title="Backmod">
+        <toc-element topic="Avoiding-Common-Potholes.md"/>
+        <toc-element topic="Discord-Linking.md"/>
+    </toc-element>
+
+    <toc-element topic="Likeum.md">
+        <toc-element topic="Entity-Hierarchy.md"/>
+    </toc-element>
 </instance-profile>

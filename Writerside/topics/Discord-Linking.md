@@ -1,3 +1,3 @@
-# About likeum
+# Discord Linking
 
 Start typing here...
